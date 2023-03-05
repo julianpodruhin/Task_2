@@ -1,3 +1,5 @@
+package Lab2ex2;
+
 public class University
 {
     private String name;
